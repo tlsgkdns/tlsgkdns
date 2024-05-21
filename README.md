@@ -11,7 +11,7 @@
 ## Repository 간단 소개
 | 이름 | 소개 | 링크 |
 | --- | --- | --- |
-| Study | 현재 매일매일 알고리즘 문제 풀이에 도전 중입니다. 이곳은 문제 풀이 코드를 저장하는 곳입니다.<br>2024년 04월 25일 기준 915일 연속 문제를 해결했습니다 | [링크](https://github.com/tlsgkdns/study) |
+| Study | 현재 매일매일 알고리즘 문제 풀이에 도전 중입니다. 이곳은 문제 풀이 코드를 저장하는 곳입니다.<br>2024년 05월 21일 기준 941일 연속 문제를 해결했습니다 | [링크](https://github.com/tlsgkdns/study) |
 | RICU | Spring Boot를 책으로 처음 배우고, 책에 수록된 코드를 활용해서 기능을 추가하고 개선한 프로젝트입니다. | [링크](https://github.com/tlsgkdns/ricu) |
 | KotlinRicu | 부트캠프를 통해 배운 Kotlin을 활용해 RICU를 Kotlin으로 옮긴 프로젝트입니다. | [링크](https://github.com/tlsgkdns/RicuKotlin) |
 | NaeverStore | 사용자가 상점을 생성해 상품을 판매하거나 다른 상품을 구매하는 팀 프로젝트 | [링크](https://github.com/tlsgkdns/NaeverStore) |
