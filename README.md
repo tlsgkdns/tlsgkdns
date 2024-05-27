@@ -28,5 +28,5 @@
 | KotlinRicu | 부트캠프를 통해 배운 Kotlin을 활용해 RICU를 Kotlin으로 옮긴 프로젝트입니다.| Kotlin | [링크](https://github.com/tlsgkdns/RicuKotlin) | 개인 프로젝트이자 가장 최근 프로젝트, 프론트엔드 포함
 | NaeverStore | 사용자가 상점을 생성해 상품을 판매하거나 다른 상품을 구매하는 팀 프로젝트| Kotlin | [링크](https://github.com/tlsgkdns/NaeverStore) | 팀 프로젝트, 프론트엔드 미포함
 | Ressul | 취준생들이 이력서를 통해 썰을 푸는 공간 | Kotlin | [링크](https://github.com/tlsgkdns/Ressul)| 팀 프로젝트, 프론트엔드 미포함
-| Study | 현재 매일매일 알고리즘 문제 풀이에 도전 중입니다. 이곳은 문제 풀이 코드를 저장하는 곳입니다.<br>2024년 05월 23일 기준 943일 연속 문제를 해결했습니다 | C++ | [링크](https://github.com/tlsgkdns/study) |
+| Study | 현재 매일매일 알고리즘 문제 풀이에 도전 중입니다. 이곳은 문제 풀이 코드를 저장하는 곳입니다.<br>2024년 05월 27일 기준 947일 연속 문제를 해결했습니다 | C++ | [링크](https://github.com/tlsgkdns/study) |
 
