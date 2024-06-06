@@ -1,32 +1,31 @@
-# 안녕하세여! 신입 개발자 신하운 입니다!
+# こんにちは！新入開発者のシン·ハウンです!
 
-## 소개
+## 紹介
 <img src="https://github.com/tlsgkdns/tlsgkdns/assets/24753709/502f6bd9-6437-4688-836b-e3c695eb9bdd" width=200 height=240 /><br>
-- 이름: 신하운
-- 학력: 강원대학교 / 컴퓨터과학과 졸업
-- 이메일: ajtwlsgkdns@naver.com <br>
-- 블로그: https://sumserv.tistory.com/
-- 한마디: 모든 것에 끈기 있게 도전하는 자세를 가지며, 노력하는 신입 개발자 신하운입니다. 여러 사람들의 의견을 듣고 경청하며 좋은 프로젝트를 위해 노력하겠습니다.
+- 名前: 辛夏雲（シン·ハウン）
+- 学歴: 江原大学ーコンピューター科学 卒業
+- email: ajtwlsgkdns@naver.com <br>
+- blog: https://sumserv.tistory.com/
 
-## 사용 가능 스택
-### 언어
-- Java: 대학 시절, 기본적으로 사용했었던 언어입니다. 첫 웹 프로젝트인 [RICU](https://github.com/tlsgkdns/ricu)는 이 언어를 백엔드로 만들어졌습니다.
-- Python: 대학 1학년 때, 배운 이래로 가끔 수업 실습에서 사용을 했었던 언어입니다.
-- C/C++: 코딩 테스트 용으로 사용하고 있습니다.
-- Kotlin: 부트캠프에 들어가서 배운 후, 팀 / 개인 프로젝트로 사용했었습니다.
-- Javascript: 기본적인 사항을 숙지하고 있습니다.
-### 기술
- - Spring Boot, JPA, QueryDSL, MySQL: 첫 웹 프로젝트 이후로 꾸준히 사용하였습니다.
- - AWS EC2, RDS: [팀 프로젝트](https://github.com/tlsgkdns/NaeverStore) 에서 프리 티어로 사용해 본 경험이 있습니다.
- - Spring Security: 기본적인 개념을 이해하고 있습니다.
- - Redis: 스핀 락을 구현하기 위해 사용한 경험이 있습니다.
- - Unity: [대학 시절 프로젝트](https://github.com/tlsgkdns/exerHero)로 사용한 적 있습니다.
-## Repository 간단 소개
-| 이름 | 소개 | 주요 사용 언어 | 링크 | 비고
+## 使用可能スタック
+### 言語
+- Java: 大学時代、基本的に使っていた言語です. 初めてのウェブプロジェクトである [RICU](https://github.com/tlsgkdns/ricu)はこの言語で作りました
+- Python: 大学1年生の時、学んでから時々授業実習で使っていた言語です
+- C/C++: コーディングテスト用に使用しています。
+- Kotlin: ブートキャンプに入って学んだ後、チーム/個人プロジェクトとして使用しました。
+- Javascript: 基本的な知識を熟知しています。
+### 技術
+ - Spring Boot, JPA, QueryDSL, MySQL: 最初のウェブプロジェクト以来、地道に使用してきました
+ - AWS EC2, RDS: [チーム·プロジェクト](https://github.com/tlsgkdns/NaeverStore) でプリティアとして使った経験があります。
+ - Spring Security: 基本的な概念を理解しています。
+ - Redis: スピンロックを作るために使用した経験があります
+ - Unity: [大学時代のプロジェクト](https://github.com/tlsgkdns/exerHero)で 使ったことがあります
+## Repository 簡単紹介
+| 名前 | 紹介 | 主な使用言語 | リンク | 備考
 | --- | --- | --- | --- | ---
-| RICU | Spring Boot를 책으로 처음 배우고, 책에 수록된 코드를 활용해서 기능을 추가하고 개선한 프로젝트입니다.| Java | [링크](https://github.com/tlsgkdns/ricu) | 개인 프로젝트, 프론트엔드 포함, KotlinRicu를 바탕으로 리팩토링 진행 중
-| KotlinRicu | 부트캠프를 통해 배운 Kotlin을 활용해 RICU를 Kotlin으로 옮긴 프로젝트입니다.| Kotlin | [링크](https://github.com/tlsgkdns/RicuKotlin) | 개인 프로젝트이자 가장 최근 프로젝트, 프론트엔드 포함
-| NaeverStore | 사용자가 상점을 생성해 상품을 판매하거나 다른 상품을 구매하는 팀 프로젝트| Kotlin | [링크](https://github.com/tlsgkdns/NaeverStore) | 팀 프로젝트, 프론트엔드 미포함
-| Ressul | 취준생들이 이력서를 통해 썰을 푸는 공간 | Kotlin | [링크](https://github.com/tlsgkdns/Ressul)| 팀 프로젝트, 프론트엔드 미포함
-| Study | 현재 매일매일 알고리즘 문제 풀이에 도전 중입니다. 이곳은 문제 풀이 코드를 저장하는 곳입니다.<br>2024년 05월 27일 기준 947일 연속 문제를 해결했습니다 | C++ | [링크](https://github.com/tlsgkdns/study) |
+| RICU |Spring Bootを本で初めて学び、本に収録されたコードを活用して機能を追加して改善したプロジェクトです| Java | [link](https://github.com/tlsgkdns/ricu) | 個人プロジェクト、フロントエンド付き、KotlinRicuをもとにリファクタリングを実施中
+| KotlinRicu | ブートキャンプを通じて学んだKotlinを活用してRICUをKotlinに移したプロジェクトです。| Kotlin | [link](https://github.com/tlsgkdns/RicuKotlin) | 個人プロジェクトであり、直近のプロジェクト、フロントエンドを含む
+| NaeverStore | ユーザーがショップを作成して商品を販売したり、他の商品を購入するチームプロジェクト| Kotlin | [link](https://github.com/tlsgkdns/NaeverStore) | チームプロジェクト、フロントエンドは含まない
+| Ressul | 就活生が履歴書を通して話をする空間 | Kotlin | [link](https://github.com/tlsgkdns/Ressul)| チームプロジェクト、フロントエンドは含まない
+| Study | 現在、毎日アルゴリズムの問題解決に挑戦中です。 ここは、問題解決コードを保存する場所です。.<br>2024年06月06日基準で957日連続で問題を解決しました | C++ | [link](https://github.com/tlsgkdns/study) |
 
