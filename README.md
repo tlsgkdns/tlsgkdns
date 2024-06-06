@@ -24,7 +24,7 @@
 | 名前 | 紹介 | 主な使用言語 | リンク | 備考
 | --- | --- | --- | --- | ---
 | RICU |Spring Bootを本で初めて学び、本に収録されたコードを活用して機能を追加して改善したプロジェクトです| Java | [link](https://github.com/tlsgkdns/ricu) | 個人プロジェクト、フロントエンド付き、KotlinRicuをもとにリファクタリングを実施中
-| KotlinRicu | ブートキャンプを通じて学んだKotlinを活用してRICUをKotlinに移したプロジェクトです。| Kotlin | [link](https://github.com/tlsgkdns/RicuKotlin) | 個人プロジェクトであり、直近のプロジェクト、フロントエンドを含む
+| KotlinRicu | ブートキャンプを通じて学んだKotlinを活用してRICUをKotlinに移したプロジェクトです。| Kotlin | [link](https://github.com/tlsgkdns/RicuKotlin/tree/Japanese-Readme) | 個人プロジェクトであり、直近のプロジェクト、フロントエンドを含む
 | NaeverStore | ユーザーがショップを作成して商品を販売したり、他の商品を購入するチームプロジェクト| Kotlin | [link](https://github.com/tlsgkdns/NaeverStore) | チームプロジェクト、フロントエンドは含まない
 | Ressul | 就活生が履歴書を通して話をする空間 | Kotlin | [link](https://github.com/tlsgkdns/Ressul)| チームプロジェクト、フロントエンドは含まない
 | Study | 現在、毎日アルゴリズムの問題解決に挑戦中です。 ここは、問題解決コードを保存する場所です。.<br>2024年06月06日基準で957日連続で問題を解決しました | C++ | [link](https://github.com/tlsgkdns/study) |
