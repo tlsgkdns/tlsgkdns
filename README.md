@@ -1,8 +1,7 @@
 # 안녕하세여! 신입 개발자 신하운 입니다!
 
 ## 개요
-<img src="https://github.com/tlsgkdns/tlsgkdns/assets/24753709/502f6bd9-6437-4688-836b-e3c695eb9bdd" width=200 height=240 /><br>
-<br>![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tlsgkdns)<br>
+<img src="https://github.com/tlsgkdns/tlsgkdns/assets/24753709/502f6bd9-6437-4688-836b-e3c695eb9bdd" width=200 height=240 /> ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tlsgkdns)
 - 이름: 신하운
 - 학력: 강원대학교 / 컴퓨터과학과 졸업
 - 이메일: ajtwlsgkdns@naver.com <br>
