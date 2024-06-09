@@ -1,14 +1,17 @@
 # 안녕하세여! 신입 개발자 신하운 입니다!
 
-## 소개
+## 개요
 <img src="https://github.com/tlsgkdns/tlsgkdns/assets/24753709/502f6bd9-6437-4688-836b-e3c695eb9bdd" width=200 height=240 /><br>
 <br>![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tlsgkdns)<br>
 - 이름: 신하운
 - 학력: 강원대학교 / 컴퓨터과학과 졸업
 - 이메일: ajtwlsgkdns@naver.com <br>
-- 블로그: https://sumserv.tistory.com/
-- 한마디: 모든 것에 끈기 있게 도전하는 자세를 가지며, 노력하는 신입 개발자 신하운입니다. 여러 사람들의 의견을 듣고 경청하며 좋은 프로젝트를 위해 노력하겠습니다.
-
+- 블로그: https://sumserv.tistory.com
+## 소개
+- 첫 웹 프로젝트로 JavaScript를 배웠는데, 이 코드를 분석해서, 자신만의 Javascipt 코드로 만든 경험이 있을 정도의 높은 프로그래밍 언어 이해도
+- 코드와 친해지기 위해 매일 1문제 씩 알고리즘 문제를 해결하였는데, 2024년 6월 6일 기준 957일 연속으로 문제를 해결하였고, 백준 티어 플래티넘 1을 달성하였을 정도의 성실도
+- 부트캠프 도중 팀원 한 분이 중도하차하셔서, 해당 팀원 담당 파트를 전부 맡아 무사히 프로젝트를 끝낼 수 있게 해 준 책임감과 자기 희생
+- 아두이노란 새로운 것을 막 배우고, 적극적으로 팀 프로젝트에 참여해서, A+란 성적을 거두게 해준 도전 정신
 ## 사용 가능 스택
 ### 언어
 - Java: 대학 시절, 기본적으로 사용했었던 언어입니다. 첫 웹 프로젝트인 [RICU](https://github.com/tlsgkdns/ricu)는 이 언어를 백엔드로 만들어졌습니다.
