@@ -22,7 +22,7 @@
  - Spring Boot, JPA, QueryDSL, MySQL: 첫 웹 프로젝트 이후로 꾸준히 사용하였습니다.
  - AWS EC2, RDS: [팀 프로젝트](https://github.com/tlsgkdns/NaeverStore) 에서 프리 티어로 사용해 본 경험이 있습니다.
  - Spring Security: 기본적인 개념을 이해하고 있습니다.
- - Redis: 스핀 락을 구현하기 위해 사용한 경험이 있습니다.
+ - Redis: 락을 구현하기 위해 사용한 경험이 있습니다.
  - Unity: [대학 시절 프로젝트](https://github.com/tlsgkdns/exerHero)로 사용한 적 있습니다.
 ## Repository 간단 소개
 | 이름 | 소개 | 주요 사용 언어 | 링크 | 비고
