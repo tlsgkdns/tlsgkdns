@@ -29,14 +29,14 @@
 ### EveHunt 
 - 개요: 이벤트를 개최할 수 있는 사이트
 - 참여 인원: 1명
-- 링크: [백엔드](https://github.com/tlsgkdns/EveHunt), [프론트엔드](https://github.com/tlsgkdns/EveHuntVue)
-- 언어: Kotlin, Javascript, HTML
+- 링크: [Java 백엔드](https://github.com/tlsgkdns/EveHuntJava), [Kotlin 백엔드](https://github.com/tlsgkdns/EveHunt), [프론트엔드](https://github.com/tlsgkdns/EveHuntVue)
+- 언어: Java, Kotlin, Javascript, HTML
 - 기술: Spring Boot, Vue.js
-- 비교: README는 백엔드 참조
+- 비고: README는 백엔드 참조
 ## 서브 Repository
 | 이름 | 소개 | 주요 사용 언어 | 링크 | 비고
 | --- | --- | --- | --- | ---
-| KotlinRicu | 부트캠프를 통해 배운 Kotlin을 활용해 RICU를 Kotlin으로 옮긴 프로젝트입니다.| Kotlin | [링크](https://github.com/tlsgkdns/RicuKotlin) | 개인 프로젝트, 프론트엔드 포함
+| KotliRicu | 부트캠프를 통해 배운 Kotlin을 활용해 RICU를 Kotlin으로 옮긴 프로젝트입니다.| Kotlin | [링크](https://github.com/tlsgkdns/RicuKotlin) | 개인 프로젝트, 프론트엔드 포함
 | NaeverStore | 사용자가 상점을 생성해 상품을 판매하거나 다른 상품을 구매하는 팀 프로젝트| Kotlin | [링크](https://github.com/tlsgkdns/NaeverStore) | 팀 프로젝트, 프론트엔드 미포함
 | Ressul | 취준생들이 이력서를 통해 썰을 푸는 공간 | Kotlin | [링크](https://github.com/tlsgkdns/Ressul)| 팀 프로젝트, 프론트엔드 미포함
 | Study | 현재 매일매일 알고리즘 문제 풀이에 도전 중, 문제 풀이 코드를 저장하는 곳.| C++ | [링크](https://github.com/tlsgkdns/study) |
