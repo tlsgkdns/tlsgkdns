@@ -35,7 +35,7 @@
 - 기술: Spring Boot, Vue.js
 - 링크: [백엔드](https://github.com/tlsgkdns/EveHuntJava), [프론트엔드](https://github.com/tlsgkdns/EveHuntVue)
 
-## 서브 Repository
+### 💻 서브 프로젝트
 | 이름 | 소개 | 주요 사용 언어 | 링크 | 비고
 | --- | --- | --- | --- | ---
 | KotliRicu | 부트캠프를 통해 배운 Kotlin을 활용해 RICU를 Kotlin으로 옮긴 프로젝트입니다.| Kotlin | [링크](https://github.com/tlsgkdns/RicuKotlin) | 개인 프로젝트, 프론트엔드 포함
