@@ -1,6 +1,6 @@
 # 안녕하세요! 신입 개발자 신하운 입니다!
 
-## 개요
+## 📰 개요
 <img src="https://github.com/tlsgkdns/tlsgkdns/assets/24753709/502f6bd9-6437-4688-836b-e3c695eb9bdd" width=200 height=240 /> ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tlsgkdns)
 - 이름: 신하운
 - 학력: 강원대학교(2016년 3월 입학) / 컴퓨터과학과 졸업(2023년 2월 졸업)
@@ -8,7 +8,7 @@
 - 블로그: https://sumserv.tistory.com (알고리즘 문제 풀이 일지 포스팅 중)
 - 자격증: TOEIC 795, 정보처리기사(2019.11)
 
-## 이 개발자는...
+## 🔍 이 개발자는...
 - 첫 웹 프로젝트로 JavaScript를 배운 뒤, 이 코드를 분석해서, 자신만의 Javascipt 코드로 만든 경험이 있을 정도의 높은 프로그래밍 언어 이해도를 지녔습니다.
 - 코드와 친해지기 위해 매일 1문제 씩 알고리즘 문제를 해결하였는데, 2024년 11월 03일 기준 [1107일 연속으로 문제를 해결하였고](https://solved.ac/profile/tlsgkdns), 백준 티어 다이아 5를 달성하였을 정도의 성실함이 있습니다.
 - 부트캠프 도중 팀원 한 분이 중도하차하셔서, 해당 팀원 담당 파트를 전부 맡아 무사히 프로젝트를 끝낼 수 있게 해 준 책임감과 자기 희생 정신이 있습니다.
